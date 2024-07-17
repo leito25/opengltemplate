@@ -54,7 +54,7 @@ usage (Linux) :
 Install some standard library, fetch the project, build and run:
 ```bash
 sudo apt-get install cmake libxrandr-dev libxinerama-dev libxcursor-dev libxi-dev libgl1-mesa-dev libglu1-mesa-dev
-git clone --recursive git@github.com:ArthurSonzogni/OpenGL_CMake_Skeleton.git
+git clone --recursive git@github.com:leito25/opengltemplate.git
 cd OpenGL_CMake_Skeleton
 mkdir build
 cd build
